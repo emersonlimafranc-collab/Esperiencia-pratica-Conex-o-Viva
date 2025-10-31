@@ -67,7 +67,7 @@ Git/GitHub → Versionamento e entrega pública.
 
 Baixe ou clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/viver-solidario.git
+git clone https://github.com/emersonlimafranc-collab/Esperiencia-pratica-Conex-o-Viva.git)
 
 
 Abra a pasta do projeto:
