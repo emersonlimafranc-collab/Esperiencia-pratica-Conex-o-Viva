@@ -1,7 +1,7 @@
-🌍 Viver Solidário
+🌍 Conexão Viva
 📘 Visão Geral
 
-O projeto Viver Solidário é uma plataforma web desenvolvida com o objetivo de representar uma ONG fictícia voltada à solidariedade e à transformação social.
+O projeto Conexão Viva é uma plataforma web desenvolvida com o objetivo de representar uma ONG fictícia voltada à solidariedade e à transformação social.
 A aplicação foi construída aplicando os fundamentos de HTML5, CSS3 e JavaScript, seguindo boas práticas de acessibilidade (WCAG 2.1) e versionamento Git/GitHub.
 
 Este projeto faz parte das Experiências Práticas da disciplina de Desenvolvimento Front-End, consolidando todas as entregas da Unidade I à IV.
@@ -17,7 +17,7 @@ Implementar boas práticas de acessibilidade, versionamento e otimização.
 Simular um ambiente profissional de desenvolvimento colaborativo.
 
 🧩 Estrutura de Pastas
-viver-solidario/
+Conexão Viva/
 │
 ├── index.html              → Página inicial da ONG
 ├── tabela.html             → Página "Quem Somos"
@@ -72,8 +72,7 @@ git clone https://github.com/SEU-USUARIO/viver-solidario.git
 
 Abra a pasta do projeto:
 
-cd viver-solidario
-
+cd Conexão Viva
 
 Execute o site localmente:
 
@@ -83,7 +82,7 @@ Ou use uma extensão de servidor local (como Live Server no VSCode)
 
 🧾 Instruções de Entrega (Faculdade)
 
-Acesse o seu GitHub e crie um novo repositório público chamado viver-solidario.
+Acesse o seu GitHub e crie um novo repositório público chamado Conexão Viva.
 
 Envie todos os arquivos e pastas do projeto para o repositório.
 
